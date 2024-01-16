@@ -1,7 +1,7 @@
 # Anlamlı İsimlendirme
 
 * **Anlaşılır isimlendirme yap! Anlamsız kısaltmalardan uzak dur.**
-* **Telefuz etmesi zor kelimeleri kullanma**
+* **Telaffuz etmesi zor kelimeleri kullanma**
 
 
 * `int d; //elapsed time in days`  
@@ -23,7 +23,8 @@ kod içinde aramayı zorlaştıracaktır. Örneğin `a` şeklinde
 bir tanımlama yapıldığında a olarak aratıldığunda bir sürü şey çıkacaktır.
 
 
-* Tek harf değişken kullanımı döngüler içinde counter olarak kullanılabilir.
+
+* Tek harf değişken kullanımı döngüler içinde sayaç olarak kullanılabilir.
 Bu gibi durumlar herkes tarafından bilindiği ve anlaşılması basit olduğu için 
 bu şekilde kullanılabilir.
 
@@ -44,13 +45,13 @@ Doğru kullanım:
         sum += realTaskWeeks;
     }
 
-* İsimlendirmede tutarlı olunmalıdır. Örneğin veri getirme görev olan
+* İsimlendirmede tutarlı olunmalıdır. Örneğin veri getirme görevi olan
 fonksiyonları isimlendirirken biri `getProduct`, diğeri `fetchCustomer` 
 yapılmamalıdır. Bir yerde get kullanılıyorsa projenin tamamında buna uyarak isimlendirme
 yapılmalıdır.
 
 
-* İsimlendirme yaparken kullanılan kelimeye farklı anlamlar yükleme karışıklığa neden olabilir.
+* İsimlendirme yaparken kullanılan kelimeye farklı anlamlar yüklemek karışıklığa neden olabilir.
 
 
 Örneğin; `add`'e bazen farklı anlamlar yüklenebilmektedir. Hem var olan bir yapıya
